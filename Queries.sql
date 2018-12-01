@@ -27,6 +27,7 @@ BusId number(5) references BusSchedule(BusId),
 primary key (BookingId)
 );
 
+select * from BookingDetails;
 drop sequence bus_id_seq;
 
 create sequence bus_id_seq start with 875000;

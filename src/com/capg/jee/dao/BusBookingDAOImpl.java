@@ -1,5 +1,6 @@
 package com.capg.jee.dao;
 //commented
+//comment for testing purpose
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.Statement;
